@@ -1,0 +1,374 @@
+*{
+    margin: 0;
+    padding: 0;
+    background:rgb(255, 255, 255) ;
+}
+main{
+    width: 1200px;
+    
+}
+.navbar{
+    width: 1200px;
+    margin: auto;
+    height: 75px;
+    
+    
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 85px;
+
+}
+
+
+.menu{
+    width: 400;
+    float: left;
+    height: 70px;
+}
+.menu :hover{
+    color: #ff7200;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ul li{
+    list-style: none;
+    margin-left: 55px;
+    margin-top: 35px;
+    font-size: 18px;
+
+}
+ul li a{
+    text-decoration: none;
+    color:rgba(0, 0, 0, .8)
+
+}
+
+.fa-solid.fa-house{width: 40px;
+      font-size: 19px;
+      margin-top: 33px;
+      margin-right: 10px;
+      font-weight: bold;
+      font-style: italic;
+      color: rgb(34, 29, 29);
+}
+
+.fa-solid.fa-user{width: 78px;
+     color: rgb(74, 50, 50);
+     font-size: 30px;
+     margin-left: 43px;
+     margin-top: 27px;
+     
+
+}
+.fa-solid.fa-user:hover{
+    color: #ff7200;
+    
+}
+.hundee{
+    width: 800px;
+}
+
+.hammate{width: 650px;
+    margin-left: 350px;
+    margin-top: 200px;
+    padding-top: px;
+    padding-bottom: px;
+    background: white;
+    border-radius: 40px;
+    border-color:rgb(22, 81, 200) ;
+    
+}
+.loyal{
+width: 490px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: none;
+    background: none;
+
+}
+
+.fa-solid{
+    font-size: 22px;
+}
+.a1{
+    color:black;
+}
+
+
+.fa-solid.fa-microphone{width: 24px;
+       background: none;
+       font-size: 22px;
+       margin-right: 17px;
+}
+.ab{
+    color: blue;
+}
+.fa-solid.fa-camera{width:24px;
+      background: none;
+      font-size: 22px;
+      margin-right: 8px; 
+}
+.abc{
+    color: black;
+}
+
+
+.text{
+    padding-left: 23%;
+    margin-top: 110px;
+    font-size: 25px;
+    background: rgb(200,0,0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white; 
+
+}
+.colors{color: white;
+        text-decoration: underline;
+        background-color: rgb(200, 0, 0);
+        margin-bottom: 10px;
+        
+
+}
+span.colors:hover{
+    text-decoration: underline;
+    color: #f1dfdf;
+    opacity:0.04s;
+    
+
+}
+
+.p1{background: rgb(213, 213, 185);
+    margin-top: 0px;
+    padding-top: 45px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+
+}
+.p2{background: rgb(213, 213, 200);
+    margin-top: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    
+}
+.p3{
+    background: rgb(213, 213, 185);
+    margin-top: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    
+}
+.p4{margin-top: 0px;
+    background: rgb(213, 213, 200);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+
+
+}
+.p5{margin-top: 0px;
+    background: rgb(213, 213, 185);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+.p6{
+margin-top: 0px;
+    background: rgb(213, 213, 200);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    
+}
+.p7{margin-top: 0px;
+    background: rgb(213, 213, 185);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+.p8{margin-top: 0px;
+    background: rgb(213, 213, 200);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+.p9{margin-top: 0px;
+    background: rgb(213, 213, 185);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+.p10{margin-top: 0px;
+    background: rgb(213, 213, 200);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+.p0{margin: 0px;
+    background: rgb(213, 213, 185);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+
+
+}
+
+.grawond{
+    width: 1380px;
+    height: 280px;
+    background: linear-gradient(to top,rgba(0,0,0,0.8));
+    position: absolute;
+    top: 170%;
+    left: 0;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+
+.loginhere{
+width: 220px;
+      font-family: arial;
+      text-align: center;
+      background-color: yellow;
+      font-size: 22px;
+      border-radius: 8px;
+      padding: 8px;
+      margin-left: 600px;
+      margin-bottom: 20px;
+
+}
+.email{
+margin-left: 450px;
+      background-color: white;
+      font-size: 18px;
+      padding: 8px;
+      margin-top: 10px;
+      border-radius: 5px;
+
+
+}
+.password{
+    margin-left: 00px;
+      background-color: white;
+      font-size: 18px;
+      padding: 8px;
+      margin-top: 10px;
+      border-radius: 5px;
+
+}
+
+.login{
+    background-color: white;
+      padding: 8px;
+      font-size: 18px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      color: black;
+      
+}
+.dont{
+ width: auto;
+      padding: 8px;
+      color: white;
+      background: transparent;
+      margin-left: 600px;
+      font-family: arial;
+      font-size: 20px;
+      margin-top: 10px;
+      margin-bottom: 15px;
+
+
+}
+.singuphere{background-color: white;
+      padding: 10px;
+      margin-left: 650px;
+      font-size: 18px;
+      font-family: arial;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      margin-bottom: 10px;
+      color: black;
+}
+.singuphere:hover{
+    background-color:  yellow;
+}
+
+.socials{width: 800px;
+      margin-left: 300px;
+      padding-top: 10px;
+      padding-left: 10px;
+      padding-bottom: 10px;
+      padding-right: 10px;
+      margin-top: 25px;
+      border-radius: 8px;
+      font-size: 25px;
+      font-weight: bold;
+
+}
+.socials :hover{
+    color: #a09893;
+}
+
+
+.facebook{color: blue;
+      margin-left: 50px;
+      margin-top: 0px;
+      margin-top: px;
+
+}
+
+.youtube{color: red;
+      margin-left: 100px;
+      margin-top: 0px;
+      margin-top: px;
+      
+
+}
+.youtube :hover{
+    color: #ff7200;
+}
+.x{color:black;
+      margin-left: 100px;
+      margin-top: 0px;
+      margin-top: px;
+      
+
+}
+.telegram{color:blue;
+      margin-left: 100px;
+      margin-top: 0px;
+      margin-top: px;
+      
+
+}
+.tiktok{
+    color: black;
+       border-radius: px;
+       background: transparent;
+       margin-left: 100px;
+
+
+}
+.whatsapp{
+        color: green;
+        border-radius: 2px;
+       background: transparent;
+       margin-left: 100px;
+       font-weight: bold;
+
+}
+
+
